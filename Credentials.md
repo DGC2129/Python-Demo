@@ -1,8 +1,0 @@
-#export AWS_ACCESS_KEY_ID="AKIAYXWBOHXX42QLOT6O"
-#export AWS_SECRET_ACCESS_KEY="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"
-#export TF_VAR_region="us-east-2"
-
-
-#$Env:AWS_ACCESS_KEY_ID="AKIAYXWBOHXX42QLOT6O"
-#$Env:AWS_SECRET_ACCESS_KEY="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"
-#$Env:TF_VAR_region="us-east-1"
