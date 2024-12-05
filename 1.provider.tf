@@ -11,10 +11,10 @@ terraform {
       source  = "hashicorp/aws"
     }
   }
-  backend "s3" {
-    bucket = "devsecopsb989tfstate"
-    key    = "devsecopsb989.tfstate"
-    region = "us-east-1"
-  }
+  # backend "s3" {
+  #   bucket = "devsecopsb989tfstate"
+  #   key    = "devsecopsb989.tfstate"
+  #   region = "us-east-1"
+  # }
 }
 
